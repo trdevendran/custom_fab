@@ -1,0 +1,19 @@
+name: custom_fab
+description: "A Customisable FloatingActionButton when need to achieve the entire shape with custom image/icon from the assets directory."
+version: 0.1.0
+homepage: https://github.com/trdevendran/custom_fab.git
+repository: https://github.com/trdevendran/custom_fab.git
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+flutter:
